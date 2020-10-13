@@ -642,6 +642,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid #aaaaaa;
   border-radius: 10px;
   margin-right: 20px;
+  margin-bottom: 10px;
   padding-left: 20px;
 }
 .contact form button {
